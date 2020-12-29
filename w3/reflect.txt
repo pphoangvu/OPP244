@@ -1,0 +1,8 @@
+1) How many elements are there in each C-style character string that stores a family or given name for the account? Why?
+There are 40 elements that store a family name or given name for the account but not 41 like in C program. The reason is that C++ automatically adds a null terminator to the end of the string for us (we don’t need to include it ourselves).
+
+2) Your class declares two member functions named set(...).  In C, this would generate an error.  Name the feature of C++ that allows this.
+Because in C it requires a unique name for each function while in C++ the function overloading feature allows us to overload the name as well as one name function can do many things without thinking about another name.
+
+3) What have you learned during this workshop?
+I learned how to cast a number by using abs as well as declare a class, function members.
